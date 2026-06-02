@@ -5,6 +5,8 @@ A multilingual web application built using **Python**, **Streamlit**, **gTTS**, 
 
 ---
 
+ ![alt text](Screenshot 2026-06-02 134744.png)
+
 ## 🚀 Features
 
 * Translate text into multiple languages

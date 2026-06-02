@@ -5,7 +5,6 @@ A multilingual web application built using **Python**, **Streamlit**, **gTTS**, 
 
 ---
 
- ![Project Demo](Screenshot 2026-06-02 134744.png)
 
 
 ## 🚀 Features

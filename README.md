@@ -42,14 +42,10 @@ A multilingual web application built using **Python**, **Streamlit**, **gTTS**, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/sonukumar5043/Multilingual-Translator-Text-to-Speech
 ```
 
-Move into the project directory:
 
-```bash
-cd your-repository-name
-```
 
 Install dependencies:
 
@@ -62,7 +58,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
